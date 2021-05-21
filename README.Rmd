@@ -1,6 +1,6 @@
 ---
 title: "ConVarT_orthoFinder"
-output: github_document
+output: markdown_github
 ---
 
 ```{r setup, include=FALSE}

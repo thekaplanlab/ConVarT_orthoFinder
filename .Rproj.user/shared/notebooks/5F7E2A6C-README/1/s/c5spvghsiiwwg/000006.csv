@@ -1,2 +1,0 @@
-"0","library(knitr)"
-"0","kable(msa[1:5,], caption = ""An example msa input file"")"

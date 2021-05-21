@@ -1,0 +1,2 @@
+"0","library(knitr)"
+"0","kable(output[1:5,], caption = ""An example output file"")"

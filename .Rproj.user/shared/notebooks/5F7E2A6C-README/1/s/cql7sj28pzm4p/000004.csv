@@ -1,0 +1,2 @@
+"0","library(knitr)"
+"0","kable(input2[1:5,], caption = ""An example variant input file"")"

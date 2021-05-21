@@ -1,0 +1,7 @@
+"0","library(data.table)"
+"0","msa<-fread(""data/example_msa_input.txt"")"
+"0","output<-fread(""data/example_output.txt"")"
+"0","input1<-fread(""data/example_df1_input.txt"")"
+"2","Stopped early on line 2384. Expected 8 fields but found 1. Consider fill=TRUE and comment.char=. First discarded non-empty line: <<""""body posture amplitude decreased"""", """"body posture wavelength decreased"""", """"nose movement increased"""", """"pausing variant"""", """"turning frequency reduced"""", """"roaming increased"""", """"forward point velocity increased"""", """"backward point velocity increased"""", """"forward locomotion decreased"""", """"conditional attraction to bacterial lawn"""", """"high pH avoidance defective"""", """"amplitude of sinusoidal movement variant"""", """"frequency of body bend variant"""")>>"
+"2","Found and resolved improper quoting out-of-sample. First healed line 106: <<WBVar00087793	115	NP_001021339	spe-10	R	*	Phenotypic	""""spermatogenesis variant"""", """"organelle organization biogenesis variant"""", """"body width variant"""")>>. If the fields are not quoted (e.g. field separator does not appear within any field), try quote="""" to avoid this warning."
+"0","input2<-fread(""data/example_df2_input.txt"")"
